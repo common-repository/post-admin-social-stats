@@ -1,0 +1,4 @@
+.sharebutton {display:inline-block; margin: 3px 20px 3px 0; width: 100%;}
+
+.gearside {font-size: 10px; margin: 12px -12px -12px -12px; padding: 3px 12px; background: #f5f5f5; color: #777; border-top: 1px solid #eee;}
+	.gearside a {padding-left: 20px; background: url('img/gearside.png') no-repeat left center;}
